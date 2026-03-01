@@ -9,7 +9,7 @@ import {
     getStatusColor,
     trimAndFormat,
     type Product
-} from './lab1';
+} from '../../src/lab1';
 
 describe('lab1 module', () => {
     it('createUser creates active user by default', () => {
